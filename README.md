@@ -8,4 +8,4 @@ Este script Python permite realizar uma análise da concentração de mídia com
 
 ---
 
-[Colab] (https://colab.research.google.com/drive/12Cb5xQnqGUqLKU4BThcQ_uiyQ7Gq0AJm?usp=sharing)
+[Colab](https://colab.research.google.com/drive/12Cb5xQnqGUqLKU4BThcQ_uiyQ7Gq0AJm?usp=sharing)
